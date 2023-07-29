@@ -1,4 +1,4 @@
-# facecare
+# facesense
 
 Skin care ml project
 
